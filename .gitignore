@@ -1,2 +1,6 @@
+il
+
+*.o
+
 # Osx dummies
 .DS_Store
